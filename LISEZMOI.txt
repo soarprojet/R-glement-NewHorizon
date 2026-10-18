@@ -1,0 +1,7 @@
+SITE NEW HORIZON
+
+1. Mets ta banniere dans le dossier images/ sous le nom banner.jpg (ou banner.png).
+2. Mets ton logo dans images/ sous le nom logo.png.
+3. Pour modifier les regles : ouvre script.js et change les textes en haut du fichier (variable G).
+4. Pour mettre en ligne : depose tout le dossier sur GitHub Pages, Netlify ou ton hebergeur.
+5. Ouvre index.html pour tester (les polices Google demandent internet).
