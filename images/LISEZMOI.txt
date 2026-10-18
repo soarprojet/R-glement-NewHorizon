@@ -1,0 +1,4 @@
+Mets ici tes images :
+- banner.jpg (ou banner.png) : la grande image de l'accueil (format conseillé 1400x780)
+- logo.png : ton logo (carré, 256x256)
+Si les fichiers n'existent pas, le site affiche le dessin par défaut.
